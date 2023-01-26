@@ -1,1 +1,1 @@
-<a href="bg.jpg">Wikipedia</a>
+<a href="web.gif">Wikipedia</a>
