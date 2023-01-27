@@ -1,8 +1,8 @@
-<p>web tasarim</p>
+<p>welcome my first page</p>
 
-<h2>tesekkurler</h2>
+<h2>Wikipedia Information</h2>
 
-<a href=""></a>
+<a href="">wikipedia big library </a>
 
 ![](web.gif)
 
